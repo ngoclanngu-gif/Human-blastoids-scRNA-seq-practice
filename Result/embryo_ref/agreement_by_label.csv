@@ -1,0 +1,34 @@
+sample,my_label,n_cells,expected,pct_unassigned,pct_match_of_assigned
+D7,"Epiblast-like (TE-primed, D7)",465,Epiblast,15.3,84.5
+D7,"Epiblast-like (bEPI, D14/D21)",1,Epiblast,100.0,
+D7,"Epiblast-like (bEPI, D7)",1890,Epiblast,8.8,100.0
+D7,Polar TE-like (bPolarTE),102,TE,28.4,100.0
+D7,Primitive endoderm-like (bPE),116,DE / Hypoblast / YSE,19.8,33.3
+D7,"Probable doublets (EPI/TE, D7)",88,not evaluated (flagged),9.1,
+D7,TE-like (bTE),1878,TE,10.1,99.4
+D14,Advanced mesoderm-like (bAdMes),4,AdvMes / ExE_Mes / Mesoderm,25.0,0.0
+D14,Amnion-like (bAME),4,Amnion,50.0,0.0
+D14,CTB-like (bCTB),688,CTB / TE,9.2,99.7
+D14,EVT-like (bEVT),785,EVT,7.6,75.7
+D14,Endoderm-like (bDE/bYSE),15,DE / Hypoblast / YSE,6.7,100.0
+D14,"Epiblast-like (bEPI, D14/D21)",353,Epiblast,10.8,99.0
+D14,Mesenchyme-like (mixed),2,AdvMes / ExE_Mes / Mesoderm,0.0,0.0
+D14,Mesoderm-like (intermediate),3,AdvMes / ExE_Mes / Mesoderm,33.3,0.0
+D14,Primitive streak / emergent mesoderm-like,18,AdvMes / Mesoderm / PriS,38.9,0.0
+D14,Primitive syncytium-like (bPrSyn),432,STB,15.3,54.6
+D14,ST-like (bSTB),894,STB,11.7,87.5
+D14,"Unresolved (high RNA, TFAP2C+/PDPN+: PGC-like or doublets)",48,not evaluated (flagged),20.8,
+D21,Advanced mesoderm-like (bAdMes),508,AdvMes / ExE_Mes / Mesoderm,10.6,98.9
+D21,Amnion-like (bAME),61,Amnion,16.4,21.6
+D21,CTB-like (bCTB),771,CTB / TE,11.2,92.7
+D21,EVT-like (bEVT),1228,EVT,8.7,79.4
+D21,Endoderm-like (bDE/bYSE),217,DE / Hypoblast / YSE,24.4,95.1
+D21,"Epiblast-like (bEPI, D14/D21)",909,Epiblast,12.2,97.2
+D21,Extraembryonic mesoderm-like (bExMes),573,AdvMes / ExE_Mes / Mesoderm,11.2,100.0
+D21,Mesenchyme-like (mixed),509,AdvMes / ExE_Mes / Mesoderm,12.4,92.8
+D21,Mesoderm-like (intermediate),139,AdvMes / ExE_Mes / Mesoderm,17.3,18.3
+D21,Primitive streak / emergent mesoderm-like,108,AdvMes / Mesoderm / PriS,41.7,71.4
+D21,Primitive syncytium-like (bPrSyn),40,STB,17.5,15.2
+D21,ST-like (bSTB),105,STB,7.6,80.4
+D21,"Unresolved (high RNA, TFAP2C+/PDPN+: PGC-like or doublets)",138,not evaluated (flagged),8.7,
+D21,"Unresolved (high RNA, mesoderm + TFAP2C+)",148,not evaluated (flagged),14.2,

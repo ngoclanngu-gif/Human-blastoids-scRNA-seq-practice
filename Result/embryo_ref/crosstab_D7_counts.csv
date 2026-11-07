@@ -1,0 +1,9 @@
+cell_state_v3,Ambiguous,Epiblast,Hypoblast,TE,nb_failed,Total
+"Epiblast-like (TE-primed, D7)",28,333,2,59,43,465
+"Epiblast-like (bEPI, D14/D21)",0,0,0,0,1,1
+"Epiblast-like (bEPI, D7)",62,1723,0,0,105,1890
+Polar TE-like (bPolarTE),9,0,0,73,20,102
+Primitive endoderm-like (bPE),13,57,31,5,10,116
+"Probable doublets (EPI/TE, D7)",0,15,0,65,8,88
+TE-like (bTE),6,10,0,1678,184,1878
+Total,118,2138,33,1880,371,4540

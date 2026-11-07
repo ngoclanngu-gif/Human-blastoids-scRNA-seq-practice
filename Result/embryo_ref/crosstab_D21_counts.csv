@@ -1,0 +1,16 @@
+cell_state_v3,AdvMes,Ambiguous,Amnion,CTB,DE,EVT,Epiblast,ExE_Mes,HEP,Hypoblast,Mesoderm,PriS,STB,TE,YSE,low_cor,nb_failed,Total
+Advanced mesoderm-like (bAdMes),127,20,0,1,1,1,0,322,1,1,0,0,0,0,0,0,34,508
+Amnion-like (bAME),20,6,11,1,0,0,1,15,0,2,0,0,0,1,0,0,4,61
+CTB-like (bCTB),0,17,0,328,0,0,1,0,0,1,0,0,48,307,0,0,69,771
+EVT-like (bEVT),0,16,0,230,0,890,0,0,0,0,0,0,0,1,0,0,91,1228
+Endoderm-like (bDE/bYSE),0,23,1,0,8,1,1,5,0,108,0,0,0,0,40,1,29,217
+"Epiblast-like (bEPI, D14/D21)",0,24,0,0,1,0,776,1,0,1,2,17,0,0,0,0,87,909
+Extraembryonic mesoderm-like (bExMes),1,1,0,0,0,0,0,508,0,0,0,0,0,0,0,11,52,573
+Mesenchyme-like (mixed),33,14,0,0,1,0,0,381,31,0,0,0,0,0,0,0,49,509
+Mesoderm-like (intermediate),0,0,0,16,0,70,0,21,0,8,0,0,0,0,0,0,24,139
+Primitive streak / emergent mesoderm-like,21,36,0,0,5,1,9,0,1,2,19,5,0,0,0,0,9,108
+Primitive syncytium-like (bPrSyn),0,0,0,6,0,21,1,0,0,0,0,0,5,0,0,0,7,40
+ST-like (bSTB),0,0,0,8,0,9,1,0,0,1,0,0,78,0,0,0,8,105
+"Unresolved (high RNA, TFAP2C+/PDPN+: PGC-like or doublets)",0,1,0,1,0,45,78,0,0,1,0,0,0,1,0,0,11,138
+"Unresolved (high RNA, mesoderm + TFAP2C+)",1,0,32,1,0,33,46,2,0,9,0,0,3,0,0,0,21,148
+Total,203,158,44,592,16,1071,914,1255,33,134,21,22,134,310,40,12,495,5454

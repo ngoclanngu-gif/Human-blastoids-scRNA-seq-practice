@@ -1,0 +1,21 @@
+cell_state_v3,D7,D14,D21
+Advanced mesoderm-like (bAdMes),0.0,0.1,9.3
+Amnion-like (bAME),0.0,0.1,1.1
+CTB-like (bCTB),0.0,21.2,14.1
+EVT-like (bEVT),0.0,24.2,22.5
+Endoderm-like (bDE/bYSE),0.0,0.5,4.0
+"Epiblast-like (TE-primed, D7)",10.2,0.0,0.0
+"Epiblast-like (bEPI, D14/D21)",0.0,10.9,16.7
+"Epiblast-like (bEPI, D7)",41.6,0.0,0.0
+Extraembryonic mesoderm-like (bExMes),0.0,0.0,10.5
+Mesenchyme-like (mixed),0.0,0.1,9.3
+Mesoderm-like (intermediate),0.0,0.1,2.5
+Polar TE-like (bPolarTE),2.2,0.0,0.0
+Primitive endoderm-like (bPE),2.6,0.0,0.0
+Primitive streak / emergent mesoderm-like,0.0,0.6,2.0
+Primitive syncytium-like (bPrSyn),0.0,13.3,0.7
+"Probable doublets (EPI/TE, D7)",1.9,0.0,0.0
+ST-like (bSTB),0.0,27.5,1.9
+TE-like (bTE),41.4,0.0,0.0
+"Unresolved (high RNA, TFAP2C+/PDPN+: PGC-like or doublets)",0.0,1.5,2.5
+"Unresolved (high RNA, mesoderm + TFAP2C+)",0.0,0.0,2.7
