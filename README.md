@@ -23,7 +23,7 @@ This is a learning project based on public data, not original experimental work.
 ## Repository structure
 
 ```
-Notebook/   Jupyter notebooks, one per analysis stage (01-09)
+Notebook/   Jupyter notebooks, one per analysis stage (02-10)
 R/          R scripts (pathway enrichment)
 Figure/     figures used in this README and in the notebooks
 Result/     small result tables (CSV); large intermediate files are not tracked
