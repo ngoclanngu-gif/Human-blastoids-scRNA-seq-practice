@@ -1,6 +1,6 @@
 # Single-cell RNA-seq re-analysis of human blastoids cultured to day 21 (GSE226794)
 
-A portfolio project in which I re-analyse a public single-cell RNA-seq dataset of 3D-cultured human blastoids
+A project in which I re-analyse a public single-cell RNA-seq dataset of 3D-cultured human blastoids
 (days 7, 14 and 21) to practise a complete workflow in Python (Scanpy) and R. The data and the biological questions
 come from the original study (Karvas et al.); the analysis choices, thresholds and any errors here are my own.
 This is a learning project based on public data, not original experimental work.
